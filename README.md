@@ -5,7 +5,6 @@
 <!-- img src="https://github.com/tjdgus5822/tjdgus5822/assets/144208258/8d2c0106-6913-486a-9ff4-ff2d4204e889" width="20" height="20" -->
 
 
-🤔 이력서[연습]
 
 ## Profile
 
