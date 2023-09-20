@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=이력서!)
+![header](https://capsule-render.vercel.app/api?type=soft&text=이력서&color=auto)
 
 ### нёιισ｡ (˙ᘧ ͜ ˙ ) 👋 <img src="https://github.com/tjdgus5822/tjdgus5822/assets/144208258/8d2c0106-6913-486a-9ff4-ff2d4204e889" width="20" height="20">
 
@@ -33,4 +33,4 @@
 
 ʕ·͡ˑ·ཻʔ ..... ✨
 
-수련중 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+수련중 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> 
